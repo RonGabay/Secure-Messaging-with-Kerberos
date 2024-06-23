@@ -11,3 +11,6 @@ This project focuses on secure communication, allowing users to send messages wi
 # Programming Languages:
 * Server-Side: Python (version 3.11.4)
 * Client-Side: C++
+
+# Collaboration:
+This project was developed in collaboration with a study partner.
