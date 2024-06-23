@@ -1,4 +1,4 @@
-# Secure-Messaging-with-Kerberos (C++/Python)
+# Secure-Messaging-with-Kerberos (Python/C++)
 This project implements a secure messaging system using the Kerberos protocol for authentication.
 
 # Project Overview
